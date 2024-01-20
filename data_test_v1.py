@@ -4,6 +4,8 @@ import numpy as np
 
 st.text('testing gh updates in browser')
 
+st.text('now flexin wit github.dev testing testing')
+
 st.text('Fixed width text')
 
 st.markdown('_Markdown_') # see #*
