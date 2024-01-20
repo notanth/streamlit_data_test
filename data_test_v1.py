@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+st.text('testing gh updates in browser')
+
 st.text('Fixed width text')
 
 st.markdown('_Markdown_') # see #*
